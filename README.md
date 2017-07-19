@@ -1,3 +1,3 @@
 # plastenik
 svi znamo, bice promenjeno kasnije
-promena 1
+promena 1mita voli pisu
