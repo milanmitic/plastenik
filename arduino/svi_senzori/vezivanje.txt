@@ -1,0 +1,22 @@
+DHT22
+VCC - 5v
+GND - GND
+DAT - D2
+
+BH1750
+VCC - 5V
+GND - GND
+SCL - A5
+SDA - A4
+ADDR - empty
+
+Soil_moisture_FC-28
++A0 - A0
+DO  - empty
+GND - GND
+VCC - 5V
+
+Water_level_sensor
++  -  5V
+-  -  GND
+S  -  A3
