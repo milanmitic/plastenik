@@ -1,0 +1,3 @@
+U ovom folderu treba da se spoje mahom svi ovvi kodovi.. preporucujem kad spojimo ove senzore da izbrisemo kod sa ppojedinacnim ili da ih prebacimo u novi folder koji ce se zvati "pojedinacno".
+Ovaj fajl komunikacija_proba je kod  koji cita podatke preko serijskog porta (usb-a) 
+Za sada treba dodati kod sa releima pa cemo da vidimo na dalje sta i kako
