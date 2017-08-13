@@ -1,3 +1,6 @@
+// ovo je kod samo za slanje inf na arduino preko usb-a
+// treba da se pogleda kako se prima inf sa arduina
+// gui ce se raditi u netbeans-u pa cemo nekako ovo negde ubaciti
 package komunikacija;
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
